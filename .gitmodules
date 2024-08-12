@@ -1,3 +1,9 @@
 [submodule "learning-lm-rs"]
 	path = learning-lm-rs
 	url = git@github.com:datager/learning-lm-rs.git
+[submodule "rustlings"]
+	path = rustlings
+	url = git@github.com:datager/rustlings.git
+[submodule "learning-cxx"]
+	path = learning-cxx
+	url = git@github.com:datager/learning-cxx.git
