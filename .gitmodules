@@ -1,0 +1,3 @@
+[submodule "learning-lm-rs"]
+	path = learning-lm-rs
+	url = git@github.com:datager/learning-lm-rs.git
